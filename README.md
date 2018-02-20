@@ -7,4 +7,4 @@ Since its launch in August of 2016, site access (cava.x10host.com) has sadly bee
 
 However, the social media's tumblr page continues to be active. The tumblr page can be found at cava.gq
 
-Screenshots of the website in use can be found at cava.gq
+Screenshots of the website in use can be found at <a href="http://cava.gq">cava.gq</a> as well as <a href="https://www.flickr.com/photos/156419740@N04/with/40329455312/"> Flickr </a>
